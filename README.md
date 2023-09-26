@@ -4,31 +4,31 @@ This console-based ATM Interface project is designed to simulate the functionali
 
 Features
 
-User Authentication:
+I. User Authentication:
 
 Users can log in securely using a PIN number.
 
-Account Balance Inquiry:
+II. Account Balance Inquiry:
 
 Check your account balance with a simple command.
 
-Cash Deposits:
+III. Cash Deposits:
 
 Deposit money into your account by specifying the amount.
 
-Cash Withdrawals:
+IV. Cash Withdrawals:
 
 Withdraw cash from your account with the desired amount.
 
-Fund Transfers:
+V. Fund Transfers:
 
 Transfer funds between your accounts or to another user's account.
 
-Transaction History:
+VI. Transaction History:
 
 View a history of recent transactions.
 
-Secure and User-Friendly:
+VII. Secure and User-Friendly:
 
 The interface prioritizes security and ease of use.
 
