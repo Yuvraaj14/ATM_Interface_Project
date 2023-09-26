@@ -34,12 +34,12 @@ The interface prioritizes security and ease of use.
 
 Getting Started:
 
-Clone this repository to your local machine.
-Compile and run the program in your preferred development environment.
-Follow the on-screen prompts to interact with the ATM interface.
+1. Clone this repository to your local machine.
+2. Compile and run the program in your preferred development environment.
+3. Follow the on-screen prompts to interact with the ATM interface.
 
 Usage:
 
-When prompted, enter your account number and PIN to log in.
-Use the menu options to perform various banking operations.
-Follow the instructions displayed on the screen to complete transactions.
+1. When prompted, enter your details and log in with the help of username and password.
+2. Use the menu options to perform various banking operations.
+3. Follow the instructions displayed on the screen to complete transactions.
